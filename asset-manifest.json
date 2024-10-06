@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mayankk-1803/passgene/static/css/main.76268f4f.css",
+    "main.js": "/mayankk-1803/passgene/static/js/main.aab5b4e4.js",
+    "static/js/453.3515e562.chunk.js": "/mayankk-1803/passgene/static/js/453.3515e562.chunk.js",
+    "index.html": "/mayankk-1803/passgene/index.html",
+    "main.76268f4f.css.map": "/mayankk-1803/passgene/static/css/main.76268f4f.css.map",
+    "main.aab5b4e4.js.map": "/mayankk-1803/passgene/static/js/main.aab5b4e4.js.map",
+    "453.3515e562.chunk.js.map": "/mayankk-1803/passgene/static/js/453.3515e562.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76268f4f.css",
+    "static/js/main.aab5b4e4.js"
+  ]
+}
